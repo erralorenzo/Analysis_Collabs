@@ -29,9 +29,6 @@ To contribute to this repository:
 3. Submit a pull request for review
 4. Address feedback and merge once approved
 
-## License
-
-This project is open source and available under the MIT License.
 
 ## Contact
 
