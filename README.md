@@ -1,6 +1,6 @@
 # Analysis_Collabs
 
-A collaborative repository for data analysis projects and research initiatives.
+A repository for data analysis projects and research initiatives.
 
 ## Overview
 
